@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+azure-core
+openai
+bs4
+requests
+tiktoken
+python-dotenv
+langchain-community
+streamlit
